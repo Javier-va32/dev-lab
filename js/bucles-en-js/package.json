@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "sd-l1-1.0",
+  "version": "1.0.0",
+  "description": "The FizzBuzz challenge is one of the most common programming interview tasks in the world. The challenge is to write a program that will output a list of numbers, replacing every 3rd number with Fizz, and every 5th number with Buzz.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
