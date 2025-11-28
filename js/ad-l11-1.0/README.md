@@ -13,9 +13,6 @@ Este ejercicio se encuentra dentro de la carpeta:
 
 js/ad-l11-1.0
 
-markdown
-Copiar código
-
 Incluye dos módulos principales:
 
 ### ✔ Módulo Calculator
@@ -49,8 +46,6 @@ Las pruebas realizadas cubren:
    npm install
 Ejecutar las pruebas unitarias:
 
-bash
-Copiar código
 npm test
 Jest procesará todas las pruebas y validará el comportamiento correcto de cada función y clase, incluyendo manejo de errores y búsqueda dentro de colecciones.
 
